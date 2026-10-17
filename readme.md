@@ -119,7 +119,8 @@ EDUTECH was presented as part of **Team Vision4X** at **PRARAMBH 2.0**, a 24-hou
 The certificate below recognizes participation in PRARAMBH 2.0 Round 2, the presentation round, on 3 October 2026.
 
 <p align="center">
-  <img src="Hackathon_Certificate.jpeg" alt="PRARAMBH 2.0 Round 2 certificate" width="90%">
+  <img width="2824" height="1923" alt="cerificate" src="https://github.com/user-attachments/assets/7330324f-b935-477e-bd46-099dfddef054" />
+
 </p>
 
 ### 💻 Project Presentation & Demonstration
@@ -133,13 +134,6 @@ The certificate below recognizes participation in PRARAMBH 2.0 Round 2, the pres
 <p align="center">
   <img src="img_3.jpeg" alt="Team photo at D.K.T.E. Society's Textile and Engineering Institute" width="90%">
 </p>
-
-### 🎖️ Round 1 Participation Certificate
-
-The Round 1 participation certificate:
-
-![View PRARAMBH 2.0 Round 1 Certificate](Unstop_Certificate.png)
-
 
 ---
 
